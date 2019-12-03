@@ -2,8 +2,14 @@
 
   background: #800080;
   
-  <h1>TEXT CENTER</h1>
-<p>TEXT CENTER</p>
-   <li>TEXT CENTER</li>
+  h1 {
+   text-align: center;
+  }
+p{
+ text-align: center;
+  }
+   li{
+    text-align: center;
+  }
 
 }
