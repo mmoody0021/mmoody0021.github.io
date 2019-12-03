@@ -1,0 +1,13 @@
+  
+<!DOCTYPE HTML>                                               
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"/>
+    </head>
+<body>
+
+<p>"Thank you for signing up!"</p>
+<IMG SRC="giphy.gif">
+</body>
+</html>
