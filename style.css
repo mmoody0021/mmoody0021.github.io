@@ -1,10 +1,10 @@
  body{
 
-  background: img src="snizzy.jpg";
+  background: #800080;
   
-  h1 {text-align:center;}
-p {text-align:center;}
-   li{text-align:center;}
+  h1 {text-align: center;}
+p {text-align: center;}
+   li{text-align: center;}
 
 
 }
