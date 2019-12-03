@@ -1,6 +1,6 @@
  body{
 
-  background: "snizzy.jpg";
+  background: img src="snizzy.jpg";
   
   h1 {text-align:center;}
 p {text-align:center;}
